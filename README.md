@@ -2,7 +2,7 @@
 
 <section align="center">
 
-<h1>Build Awesome <mark>①ne</mark></h1>
+<h1>Build Awesome <mark>➀ne</mark></h1>
 
 <big>All-in-One kit for Build Awesome (11ty).</big>
 
