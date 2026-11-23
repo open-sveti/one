@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> We moved from a single-project organizations to the [Sveti Foundation](https://github.com/open-sveti) umbrella, strengthening our growing [ecosystem](https://github.com/with-sveti).
+>
+> **npm packages are now under the `@sveti/` scope.**
+
 <!--section:summary-->
 
 <section align="center">
